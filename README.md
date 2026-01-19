@@ -7,7 +7,7 @@ DevOps & Cloud Engineer
 DevOps and Infrastructure Engineer with 7+ years of experience, specializing in Kubernetes, GitOps, Observability, and Automation. AWS Certified, focused on modernizing and optimizing infrastructure using IaC (Infrastructure as Code), CI/CD, and monitoring best practices. Passionate about Cloud Native technologies, infrastructure security, and CI/CD pipeline optimization, continuously improving processes and tools to enhance efficiency and scalability.
 
 * 🌍 I'm based in Fortaleza, CE, Brazil
-* ✉️ You can contact me at [ytalor@gmail.com](mailto:ytalor@gmail.com)
+* ✉️ You can contact me at [ytalor@gmail.com](mailto:ytalors@gmail.com)
 * 🚀 I'm currently working on [Boticario Group's](http://www.grupoboticario.com.br/)
 * 🧠 I'm learning Python and improving AWS & K8S skills
 * 🤝 I'm open to collaborating on AWS, K8S, GitOps, CI/CD, Observability, and Automation.
