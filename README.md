@@ -1,10 +1,10 @@
 Hi 👋 My name is Ytalo Rodrigues
 =========================
 
-DevOps & Cloud Engineer
+DevOps and Platform Engineer
 ------------------------
 
-DevOps and Infrastructure Engineer with 7+ years of experience, specializing in Kubernetes, GitOps, Observability, and Automation. AWS Certified, focused on modernizing and optimizing infrastructure using IaC (Infrastructure as Code), CI/CD, and monitoring best practices. Passionate about Cloud Native technologies, infrastructure security, and CI/CD pipeline optimization, continuously improving processes and tools to enhance efficiency and scalability.
+DevOps and Infrastructure Engineer with 8+ years of experience, specializing in Kubernetes, GitOps, Observability, and Automation. AWS Certified, focused on modernizing and optimizing infrastructure using IaC (Infrastructure as Code), CI/CD, and monitoring best practices. Passionate about Cloud Native technologies, infrastructure security, and CI/CD pipeline optimization, continuously improving processes and tools to enhance efficiency and scalability.
 
 * 🌍 I'm based in Fortaleza, CE, Brazil
 * ✉️ You can contact me at [ytalors@gmail.com](mailto:ytalors@gmail.com)
